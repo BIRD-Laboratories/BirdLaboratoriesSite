@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Simp Labs!
 
-You can use the [editor on GitHub](https://github.com/Simp-Laboratories/SimpLaboratoriesSite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Simp Labs is a AI and ML organization! We hope to colabortate with other grassroots efforts! 
+Maintained by Julian Herrera
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Us
 
-### Markdown
+We are Simp Labs, Simp Labs is an organization dedicated to Open Source and accessable AI and Technology! 
+We have wrote numorous works, and has a lot of works in progress!
+Altough we don't have anything groundbreaking, This is completly maintained by a teenager (Julian Herrera)
+We also do other projects relating to art and game dev.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Completed Work
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Simp-Laboratories/SimpLaboratoriesSite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We have four completed works
+The first one is known as Karlee-Sim a mess of a 2d Dating Sim I wasn't very proud of.
+It can be accessed at https://puffy310.itch.io/karleesim
+The next two were unprofessional papers, so don't take them as real research.
+They are at https://drive.google.com/drive/folders/1F_J1HhhuNlgZtEB1eWXuzgYe1rejPW3F?usp=sharing
+My most recent paper is at https://openreview.net/forum?id=CxMuhSuXIW 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can contact Julian at Blueyboi123@gmail.com or Puffy Avocado#7496(Discord)
