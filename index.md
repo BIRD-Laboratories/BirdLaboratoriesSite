@@ -23,4 +23,4 @@ My most recent paper is [here](https://openreview.net/forum?id=CxMuhSuXIW) <br/>
 
 ### Support or Contact
 
-You can contact me at my [Gmail](Blueyboi123@gmail.com) or at my discord:Puffy Avocado#7496
+You can contact me at my [Gmail](mailto:blueyboi123@gmail.com) or at my discord:Puffy Avocado#7496
