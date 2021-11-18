@@ -8,14 +8,14 @@ Maintained by Julian Herrera
 ### About Me
 
 I'm Julian Herrera, A 14 year old focused on:Writing, Coding, and Machine Learning. I've been coding python for 2 years, and have been working with ML for a <br/>
-couple months. I'm looking to colaborate with other grassroots efforts, and with other people interested in helping me with my work.
+couple months. I'm looking to colaborate with other grassroots efforts, and with other people interested in helping me with my work. I'm also love obsessed.
 
 ### About Us
 
 We are Simp Labs, Simp Labs is an organization dedicated to Open Source and accessable AI and Technology! 
 We have wrote numorous works, and has a lot of works in progress!
+We also are an effort to study love and machines, how setting impacts love, and how we can make things better.
 We are a grassroots effort, hoping to achieve as much as possible on a shoestring budget!
-We also do other projects relating to art and game dev some of my work can be seen in [this discord]
 
 ### Completed Work
 
